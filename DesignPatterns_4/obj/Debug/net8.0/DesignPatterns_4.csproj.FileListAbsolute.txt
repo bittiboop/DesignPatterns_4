@@ -1,0 +1,15 @@
+C:\Users\student\RiderProjects\DesignPatterns_4\DesignPatterns_4\bin\Debug\net8.0\DesignPatterns_4.exe
+C:\Users\student\RiderProjects\DesignPatterns_4\DesignPatterns_4\bin\Debug\net8.0\DesignPatterns_4.deps.json
+C:\Users\student\RiderProjects\DesignPatterns_4\DesignPatterns_4\bin\Debug\net8.0\DesignPatterns_4.runtimeconfig.json
+C:\Users\student\RiderProjects\DesignPatterns_4\DesignPatterns_4\bin\Debug\net8.0\DesignPatterns_4.dll
+C:\Users\student\RiderProjects\DesignPatterns_4\DesignPatterns_4\bin\Debug\net8.0\DesignPatterns_4.pdb
+C:\Users\student\RiderProjects\DesignPatterns_4\DesignPatterns_4\obj\Debug\net8.0\DesignPatterns_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\RiderProjects\DesignPatterns_4\DesignPatterns_4\obj\Debug\net8.0\DesignPatterns_4.AssemblyInfoInputs.cache
+C:\Users\student\RiderProjects\DesignPatterns_4\DesignPatterns_4\obj\Debug\net8.0\DesignPatterns_4.AssemblyInfo.cs
+C:\Users\student\RiderProjects\DesignPatterns_4\DesignPatterns_4\obj\Debug\net8.0\DesignPatterns_4.csproj.CoreCompileInputs.cache
+C:\Users\student\RiderProjects\DesignPatterns_4\DesignPatterns_4\obj\Debug\net8.0\DesignPatterns_4.sourcelink.json
+C:\Users\student\RiderProjects\DesignPatterns_4\DesignPatterns_4\obj\Debug\net8.0\DesignPatterns_4.dll
+C:\Users\student\RiderProjects\DesignPatterns_4\DesignPatterns_4\obj\Debug\net8.0\refint\DesignPatterns_4.dll
+C:\Users\student\RiderProjects\DesignPatterns_4\DesignPatterns_4\obj\Debug\net8.0\DesignPatterns_4.pdb
+C:\Users\student\RiderProjects\DesignPatterns_4\DesignPatterns_4\obj\Debug\net8.0\DesignPatterns_4.genruntimeconfig.cache
+C:\Users\student\RiderProjects\DesignPatterns_4\DesignPatterns_4\obj\Debug\net8.0\ref\DesignPatterns_4.dll
